@@ -1,0 +1,12 @@
+/* TEAM */
+	Architect & Engineer: Seth Cottam
+	From: Happy Valley, Utah
+
+/* THANKS */
+	Ideas and Inspirations:
+	From: Utah
+
+/* SITE */
+	Last update:2012/02/04
+	Languages: Bash / ZSH / Python
+	Tools: Sublime Text, vim, iTerm, Oh-My-Zsh

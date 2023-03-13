@@ -1,0 +1,14 @@
+# User's private folders
+spryts/*
+user_files/*
+
+# User's private files
+user_initialization.sh
+user_settings.sh
+user_aliases.sh
+
+# Mac finder assistance
+*.DS_Store 
+
+# Counter text file(s)
+system/faux_db/counters/*
